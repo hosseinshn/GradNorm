@@ -9,3 +9,6 @@ Network: One shared layer and two task specific towers
 
 
 Framework: Pytorch
+
+
+Update (July 2021): This repository is not maintained anymore. The unresolved issues are left open in case someone has a revised implementation. 
